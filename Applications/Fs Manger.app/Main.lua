@@ -16,7 +16,7 @@ local userSettings = system.getUserSettings()
 local localization = system.getSystemLocalization()
 
 local FTPMountPath = paths.system.mounts .. "FTP/"
-local configPath = paths.user.applicationData .. "Finder/Config.cfg"
+local configPath = paths.user.applicationData .. "Fs Manger/Config.cfg"
 local config = {
 	favourites = {
 		{ name = "Root", path = "/" },
