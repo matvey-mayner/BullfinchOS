@@ -17,7 +17,7 @@ local repositoryURL = "https://raw.githubusercontent.com/matvey-mayner/Bullfinch
 local installerURL = "Installer/"
 local EFIURL = "EFI/Minified.lua"
 
-local installerPath = "/bullfinchOS installer/"
+local installerPath = "/MineOS installer/"
 local installerPicturesPath = installerPath .. "Installer/Pictures/"
 local OSPath = "/"
 
